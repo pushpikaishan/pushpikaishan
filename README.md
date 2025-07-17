@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ishan</h1>
 <p align="center" ><img  src = "https://github.com/pushpikaishan/pushpikaishan/blob/main/about_me.gif" width = 100px></p>
+<h1 align="center">Hi 👋, I'm Ishan</h1>
+
 <h3 align="center">Passionate IT Student | Exploring new Technology</h3>
 
 - 🧑‍🎓 I’m an **Undergraduate at SLIIT**
